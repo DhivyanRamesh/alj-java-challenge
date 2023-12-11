@@ -47,6 +47,24 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 Please let us know more about your Java experience in a few sentences. For example:
 
-- I have 3 years experience in Java and I started to use Spring Boot from last year
-- I'm a beginner and just recently learned Spring Boot
-- I know Spring Boot very well and have been using it for many years
+- I have 6+ years experience in Java and I have been using Spring Boot from last 3+ years.
+- I have an overall experience of 11+ years in the industry with good knowledge of various Java based frameworks.
+- I am technology agnostic and have had the fruitfulness of Java while working with other programming languages as well.
+- I always felt Java could be the best solution for any larger dynamic applications with my experience. 
+
+#### Changes done to existing project
+- Have tried to incorporate all the above mentioned enhancements under instructions section.
+- Have added couple of additional APIs for bulk save & delete.
+- Have altered the table with audit columns to track the record history.
+
+#### Short description of the project
+- Admin users only are authorized to use this Employee Application
+- The user can do all the CRUD operations (Get, Save, Update, Delete employees)
+- The application is ready to be used and can be executed with the API swaggers and verified in the console.
+- Kindly refer Security config file for the Authentication
+
+#### Further scope for enhancements
+If I had more time, could have done following enhancements
+- Would have added more role based authentication like Admin, Manager, Employee etc with access limitations
+- Would have achieved more code coverage with Junits
+- Would have prepared design documents such as flow diagram, API mapping sheets. Table design etc
